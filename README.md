@@ -30,7 +30,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/Karthik-Malapati/Amazon-Prime-Dashboard.git
+git clone [https://github.com/Karthik-Malapati/Amazon-Prime-Dashboard.git](https://github.com/Karthik-Malapati/Amazon-Prime-Videos-Dashboard---PowerBI)
 Open the Power BI file (.pbix)
 Interact with the dashboard using filters and tooltips to explore trends
 
