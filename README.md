@@ -1,4 +1,5 @@
 🎬 Amazon Prime Movies & TV Shows Dashboard - Power BI
+
 📌 Project Overview
 This project presents an interactive Power BI dashboard analyzing Amazon Prime's movies and TV shows dataset. The dashboard provides insights into content ratings, genre distribution, global availability, and historical trends to help understand streaming patterns.
 
